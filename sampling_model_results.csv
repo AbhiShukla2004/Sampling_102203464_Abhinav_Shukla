@@ -1,0 +1,26 @@
+Sample,Sampling Method,Model,Accuracy
+Sample1,oversample,RandomForest,1.0
+Sample1,oversample,GradientBoosting,0.9591836734693877
+Sample1,oversample,SVM,0.673469387755102
+Sample1,oversample,LogisticRegression,0.7959183673469388
+Sample1,oversample,KNN,0.7755102040816326
+Sample2,undersample,RandomForest,1.0
+Sample2,undersample,GradientBoosting,0.8604651162790697
+Sample2,undersample,SVM,0.7441860465116279
+Sample2,undersample,LogisticRegression,0.8372093023255814
+Sample2,undersample,KNN,0.8837209302325582
+Sample3,smoteenn,RandomForest,1.0
+Sample3,smoteenn,GradientBoosting,0.9761904761904762
+Sample3,smoteenn,SVM,0.7142857142857143
+Sample3,smoteenn,LogisticRegression,0.9523809523809523
+Sample3,smoteenn,KNN,0.8809523809523809
+Sample4,oversample,RandomForest,1.0
+Sample4,oversample,GradientBoosting,0.9791666666666666
+Sample4,oversample,SVM,0.4583333333333333
+Sample4,oversample,LogisticRegression,0.9166666666666666
+Sample4,oversample,KNN,0.7708333333333334
+Sample5,undersample,RandomForest,0.9782608695652174
+Sample5,undersample,GradientBoosting,0.9130434782608695
+Sample5,undersample,SVM,0.6739130434782609
+Sample5,undersample,LogisticRegression,0.8260869565217391
+Sample5,undersample,KNN,0.8260869565217391
